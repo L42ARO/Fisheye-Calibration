@@ -1,4 +1,6 @@
 # 🐟 Fisheye Camera Undistortion Toolkit
+![Calibration Example](https://github.com/L42ARO/Fisheye-Calibration/blob/main/media/Recording2026-05-05182901-ezgif.com-video-to-gif-converter.gif)
+![Undistorted Example](https://github.com/L42ARO/Fisheye-Calibration/blob/main/media/Recording2026-05-05072724-ezgif.com-video-to-gif-converter.gif)
 
 I made this because I was trying to get usable undistorted video from a wide-angle Amazon fisheye camera, there are plenty of other solutoins out there but figured to give it a shot at making my own and hey it worked out, and specifically for wide angle cameras so figured to put it out there if it helps anyone.
 
